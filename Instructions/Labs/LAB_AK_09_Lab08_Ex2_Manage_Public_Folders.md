@@ -48,8 +48,7 @@ In this task, you will manage several settings for the Test PF1 public folder.
     center** tab in your browser.
 
 2.  In the **Exchange admin center**, you should still be in the **public
-    folders** page, and you should be in the **public folders** tab after having
-    completed the prior task.
+    folders** page after having completed the prior task.
 
 3.  On the **public folders** page, the **Test PF1** record that you updated in
     the prior task should be highlighted.  
@@ -98,8 +97,7 @@ In this task, you will manage the permissions for the Test PF1 public folder.
     center** tab in your browser.
 
 2.  In the **Exchange admin center**, you should still be in the **public
-    folders** page, and you should be in the **public folders** tab after having
-    completed the prior task.
+    folders** page,after having completed the prior task.
 
 3.  On the **public folders** page, the **Test PF1** record that you updated in
     the prior task should be highlighted.
