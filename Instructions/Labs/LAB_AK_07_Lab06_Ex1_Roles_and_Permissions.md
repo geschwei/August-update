@@ -155,34 +155,35 @@ assigned to several test users in Holly’s pilot project.
 1.  You should still be logged into LON-CL1 as the **Administrator** account
     with a password of **Pa55w.rd**; however, if the log-in screen appears, then
     log in now.
-2.  In the **Exchange admin center** select the 
-2.  The **Exchange admin center** for Exchange Online should still be open in
-    your Edge browser. You should still be on the **permissions** page from the
-    prior task. At the top of the **permissions** page, select the **Outlook Web
+2.  In the **Exchange admin center** select the **Classic Exchange admin center** on the bottom of the navigation bar.
+
+3.  In the **Classic Exchange admin center**, select **Permissions** from the navigation bar.
+
+4.  In the  **Classic Exchange admin center** At the top of the **permissions** page, select the **Outlook Web
     App policies** tab.
 
-3.  In the list of Outlook Web App policies, the **OwaMailboxPolicy-Default**
+5.  In the list of Outlook Web App policies, the **OwaMailboxPolicy-Default**
     policy is the only current policy. By default, this policy is assigned to
     all user mailboxes.
 
-4.  To create a new Outlook Web App policy, select the **plus (+) sign** icon on
+6.  To create a new Outlook Web App policy, select the **plus (+) sign** icon on
     the menu bar.
 
-5.  In the **new Outlook Web App mailbox policy** window, enter **Test OWA
+7.  In the **new Outlook Web App mailbox policy** window, enter **Test OWA
     Mailbox policy** in the **Policy name** field.
 
-6.  In the **Communication Management** group, all features are selected by
+8.  In the **Communication Management** group, all features are selected by
     default. Select the **Text Messaging** check box to unselect it.
 
-7.  In the **Information management** group, un-check **Journaling**.
+9.  In the **Information management** group, un-check **Journaling**.
 
-8.  In the **User experience** group, select **Places** and **Local events**.
+10.  In the **User experience** group, select **Places** and **Local events**.
 
-9.  Select **Save** and then select **OK** once the information is successfully
+11.  Select **Save** and then select **OK** once the information is successfully
     saved. Your new custom policy should appear in the list of Outlook Web App
     policies.
 
-10. Leave the Edge browser and all tabs open and proceed to the next exercise.
+12. Leave the Edge browser and all tabs open and proceed to the next exercise.
 
 ## Task 4: Assign an Outlook Web App Policy to a user mailbox
 
@@ -200,7 +201,7 @@ Holly’s pilot project.
     with a password of **Pa55w.rd**; however, if the log-in screen appears, then
     log in now.
 
-2.  The **Exchange admin center** for Exchange Online should still be open in
+2.  The **Classic Exchange admin center** for Exchange Online should still be open in
     your Edge browser. In the left-hand navigation pane, select **recipients.**
 
 3.  On the **recipients** page, the **mailboxes** tab should be selected by
