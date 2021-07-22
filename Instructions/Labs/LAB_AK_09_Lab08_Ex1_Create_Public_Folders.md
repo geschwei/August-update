@@ -35,10 +35,10 @@ before you can create a public folder.
 3.  In the **Exchange admin center**, on the left-hand navigation pane, select
     **public folders**.
 
-4.  At the top of the **public folders** page, select the **public folder
+4.  In the **public folders** section, select the **public folder
     mailboxes** tab.
 
-5.  On the **public folder mailboxes** tab, select the **plus (+) sign** icon on
+5.  On the **public folder mailboxes** page, select the **plus (+) sign** icon on
     the menu bar to add a new public folder mailbox.
 
 6.  In the **new public folder mailbox** window, enter **Test PF mailbox1** in
@@ -66,9 +66,9 @@ the next lab exercise).
     after having completed the prior task.  
       
     Since you now want to create a public folder, select the **public folders**
-    tab at the top of the page.
+    under the **public folders** section for the navigation bar.
 
-3.  In the **public folders** tab, select the **plus (+) sign** icon to add a
+3.  In the **public folders** page, select the **plus (+) sign** icon to add a
     new public folder.
 
 4.  In the **new public folder** window, enter **Test PF1** in the **Name**
